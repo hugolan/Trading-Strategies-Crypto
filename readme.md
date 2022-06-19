@@ -2,6 +2,6 @@ Trading and analysis of cryptocurrencies made in the context of the FinEcon clas
 
 Analysis of cryptocurrencies notebook contains test statistic for the main cryptocurrencies
 
-Each of these notebooks has a different strategy:
+Each of these notebooks has a different strategy: </p>
 	-Bitcoin dominance strategy
 	-Tangency portofolio
